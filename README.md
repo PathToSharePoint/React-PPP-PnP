@@ -1,2 +1,5 @@
-# React-PPP-PnP
- Property Pane Portal demo with PnP Community controls
+# react-ppp-pnp
+
+## Summary
+
+Shared as demo for debugging purposes.
